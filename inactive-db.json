@@ -1,18 +1,16 @@
 {
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/add.Spam.list": {
-        "1520914625": [
-            "amoxicillin-amoxil-buy.com",
+        "1521001102": [
             "buylasix-online.net",
             "ebaychristmas.com",
             "generic-onlinenexium.net",
             "genericnexium40mg.net",
             "online-buyprednisone.com",
             "vp5.sudohost.com.br",
-            "www.thedatingconference.com"
-        ],
-        "to_test": [
+            "www.thedatingconference.com",
             "100lend.in.net",
             "amasuv.in.net",
+            "amoxicillin-amoxil-buy.com",
             "amzingsuv.in.net",
             "app.mailersend.co",
             "bathtubb.in.net",
@@ -64,6 +62,7 @@
             "www.securesignupoffers.net",
             "www.sendingmarketing.com",
             "www.walkintubb.bid"
-        ]
+        ],
+        "to_test": []
     }
 }
