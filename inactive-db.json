@@ -1,6 +1,7 @@
 {
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/add.Spam.list": {
-        "1521433542": [
+        "1521606183": [
+            "amoxicillin-amoxil-buy.com",
             "buylasix-online.net",
             "ebaychristmas.com",
             "generic-onlinenexium.net",
@@ -10,7 +11,6 @@
             "www.thedatingconference.com",
             "100lend.in.net",
             "amasuv.in.net",
-            "amoxicillin-amoxil-buy.com",
             "amzingsuv.in.net",
             "app.mailersend.co",
             "bathtubb.in.net",
@@ -63,6 +63,8 @@
             "www.sendingmarketing.com",
             "www.walkintubb.bid"
         ],
-        "to_test": []
+        "to_test": [
+            ""
+        ]
     }
 }
