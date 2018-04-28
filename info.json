@@ -25,6 +25,8 @@
         "--commit-autosave-message \"[Autosave] Test of add.Spam\"",
         "--commit-results-message \"[Results] Test of add.Spam\"",
         "--commit-autosave-message \"[Autosave] Test of add.Spam\"",
+        "--commit-results-message \"[Results] Test of add.Spam\"",
+        "--commit-autosave-message \"[Autosave] Test of add.Spam\"",
         "--commit-results-message \"[Results] Test of add.Spam\""
     ],
     "clean_list_file": "clean.list",
@@ -32,7 +34,7 @@
     "commit_autosave_message": "Test of add.Spam",
     "currently_under_test": "0",
     "days_until_next_test": "1",
-    "last_test": "1524717796",
+    "last_test": "1524890601",
     "list_name": "add.Spam.list",
     "name": "add.Spam",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
