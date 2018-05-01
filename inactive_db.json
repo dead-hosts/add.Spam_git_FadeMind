@@ -1,9 +1,10 @@
 {
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/add.Spam.list": {
-        "1524977053": [
-            "www.creditauthpagev3.info",
+        "1525149928": [
             "www.redhotfreebies.co.uk"
         ],
-        "to_test": []
+        "to_test": [
+            "www.creditauthpagev3.info"
+        ]
     }
 }
