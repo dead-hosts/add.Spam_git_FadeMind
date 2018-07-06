@@ -1,10 +1,11 @@
 {
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/add.Spam.list": {
-        "1530767999": [
-            "email.otherinbox.com",
+        "1530854485": [
             "www.beaverday.biz",
             "www.redhotfreebies.co.uk"
         ],
-        "to_test": []
+        "to_test": [
+            "email.otherinbox.com"
+        ]
     }
 }
