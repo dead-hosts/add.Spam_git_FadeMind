@@ -53,12 +53,12 @@
         "gtradersoft.com": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "heartrevitalized.com": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "janeaustenjoy.com": {
             "epoch": "1553299200",
