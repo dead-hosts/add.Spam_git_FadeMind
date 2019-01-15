@@ -3,7 +3,7 @@
         "7minuteworkout.com": {
             "epoch": "1547510400",
             "expiration_date": "15-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "addshoppers.com": {
             "epoch": "1655856000",
