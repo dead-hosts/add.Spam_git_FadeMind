@@ -1,9 +1,9 @@
 {
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/add.Spam.list": {
         "7minuteworkout.com": {
-            "epoch": "1547510400",
-            "expiration_date": "15-jan-2019",
-            "state": "past"
+            "epoch": "1579046400",
+            "expiration_date": "15-jan-2020",
+            "state": "future"
         },
         "addshoppers.com": {
             "epoch": "1655856000",
