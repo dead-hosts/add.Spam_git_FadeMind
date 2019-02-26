@@ -20,6 +20,11 @@
             "expiration_date": "14-jun-2019",
             "state": "future"
         },
+        "clicktshirtprinting.co.uk": {
+            "epoch": "1585612800",
+            "expiration_date": "31-mar-2020",
+            "state": "future"
+        },
         "creditauthpagev3.info": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
@@ -108,6 +113,11 @@
         "profitsitesbiz.com": {
             "epoch": "1585353600",
             "expiration_date": "28-mar-2020",
+            "state": "future"
+        },
+        "redhotfreebies.co.uk": {
+            "epoch": "1563753600",
+            "expiration_date": "22-jul-2019",
             "state": "future"
         },
         "securesignupoffers.org": {
