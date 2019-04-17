@@ -133,7 +133,7 @@
         "thedatingconference.com": {
             "epoch": "1555459200",
             "expiration_date": "17-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "tinaborg.com": {
             "epoch": "1575936000",
