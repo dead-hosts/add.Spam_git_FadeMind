@@ -48,7 +48,7 @@
         "freeforums.org": {
             "epoch": "1555718400",
             "expiration_date": "20-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "go2jump.org": {
             "epoch": "1586476800",
