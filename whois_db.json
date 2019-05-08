@@ -28,7 +28,7 @@
         "creditauthpagev3.info": {
             "epoch": "1557273600",
             "expiration_date": "08-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "defenderxtactical.com": {
             "epoch": "1587427200",
