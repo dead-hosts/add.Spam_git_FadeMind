@@ -36,9 +36,6 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/domains.list": {
-        "1573032730": {
-            "100.1qingdao.com": "INACTIVE"
-        },
         "1573032749": {
             "redhotfreebies.co.uk": "INACTIVE"
         },
@@ -53,6 +50,9 @@
         },
         "1573032774": {
             "www.tkdami.net": "INACTIVE"
+        },
+        "1573119142": {
+            "100.1qingdao.com": "INACTIVE"
         }
     }
 }
