@@ -35,24 +35,5 @@
             "www.thedatingconference.com": "INACTIVE"
         }
     },
-    "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/domains.list": {
-        "1573292067": {
-            "100.1qingdao.com": "INACTIVE"
-        },
-        "1573292089": {
-            "redhotfreebies.co.uk": "INACTIVE"
-        },
-        "1573292097": {
-            "www.creditauthpagev3.info": "INACTIVE"
-        },
-        "1573292108": {
-            "www.onlineloan-personal.net": "INACTIVE"
-        },
-        "1573292111": {
-            "www.thedatingconference.com": "INACTIVE"
-        },
-        "1573292113": {
-            "www.tkdami.net": "INACTIVE"
-        }
-    }
+    "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/domains.list": {}
 }
