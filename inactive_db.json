@@ -36,19 +36,11 @@
         }
     },
     "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/domains.list": {
-        "1574329198": {
-            "100.1qingdao.com": "INACTIVE"
-        },
-        "1574329201": {
-            "redhotfreebies.co.uk": "INACTIVE"
-        },
-        "1574329207": {
-            "www.creditauthpagev3.info": "INACTIVE"
-        },
-        "1574329226": {
-            "www.onlineloan-personal.net": "INACTIVE"
-        },
-        "1574329231": {
+        "1574502605": {
+            "100.1qingdao.com": "INACTIVE",
+            "redhotfreebies.co.uk": "INACTIVE",
+            "www.creditauthpagev3.info": "INACTIVE",
+            "www.onlineloan-personal.net": "INACTIVE",
             "www.thedatingconference.com": "INACTIVE"
         }
     }
