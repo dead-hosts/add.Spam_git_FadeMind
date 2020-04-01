@@ -22,7 +22,7 @@
     "clicktshirtprinting.co.uk": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "creditauthpagev3.info": {
         "epoch": 1588896000.0,
