@@ -2,14 +2,14 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2020-04-03T14:01:00.032732",
-    "finish_timestamp": 1585922460.032732,
-    "last_download_datetime": "2020-04-03T13:59:55.886611",
-    "last_download_timestamp": 1585922395.886611,
-    "latest_part_finish_datetime": "2020-04-03T14:01:00.032732",
-    "latest_part_finish_timestamp": 1585922460.032732,
-    "latest_part_start_datetime": "2020-04-03T13:59:56.581691",
-    "latest_part_start_timestamp": 1585922396.581691,
+    "finish_datetime": "2020-04-05T10:43:05.920918",
+    "finish_timestamp": 1586083385.920918,
+    "last_download_datetime": "2020-04-05T10:42:11.883255",
+    "last_download_timestamp": 1586083331.883255,
+    "latest_part_finish_datetime": "2020-04-05T10:43:05.920918",
+    "latest_part_finish_timestamp": 1586083385.920918,
+    "latest_part_start_datetime": "2020-04-05T10:42:12.543646",
+    "latest_part_start_timestamp": 1586083332.543646,
     "live_update": true,
     "name": "add.Spam_git_FadeMind",
     "own_management": false,
@@ -17,6 +17,6 @@
         "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-    "start_datetime": "2020-04-03T13:59:56.578942",
-    "start_timestamp": 1585922396.578942
+    "start_datetime": "2020-04-05T10:42:12.541230",
+    "start_timestamp": 1586083332.54123
 }
