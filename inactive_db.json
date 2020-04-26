@@ -26,43 +26,50 @@
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1587165199.0,
-            "last_retested_at_iso": "2020-04-17T23:13:19",
+            "last_retested_at_epoch": 1587940224.850395,
+            "last_retested_at_iso": "2020-04-26T22:30:24.850395",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1587208302.0,
             "included_at_iso": "2020-04-18T11:11:42",
-            "last_retested_at_epoch": 1587208302.0,
-            "last_retested_at_iso": "2020-04-18T11:11:42",
+            "last_retested_at_epoch": 1587940224.854589,
+            "last_retested_at_iso": "2020-04-26T22:30:24.854589",
             "status": "INACTIVE"
         },
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1587165199.0,
-            "last_retested_at_iso": "2020-04-17T23:13:19",
+            "last_retested_at_epoch": 1587940224.867095,
+            "last_retested_at_iso": "2020-04-26T22:30:24.867095",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1587165199.0,
-            "last_retested_at_iso": "2020-04-17T23:13:19",
+            "last_retested_at_epoch": 1587940224.870387,
+            "last_retested_at_iso": "2020-04-26T22:30:24.870387",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1587165199.0,
-            "last_retested_at_iso": "2020-04-17T23:13:19",
+            "last_retested_at_epoch": 1587940224.882396,
+            "last_retested_at_iso": "2020-04-26T22:30:24.882396",
+            "status": "INACTIVE"
+        },
+        "www.playlott.com": {
+            "included_at_epoch": 1587940224.885653,
+            "included_at_iso": "2020-04-26T22:30:24.885653",
+            "last_retested_at_epoch": 1587940224.885653,
+            "last_retested_at_iso": "2020-04-26T22:30:24.885653",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1587165199.0,
-            "last_retested_at_iso": "2020-04-17T23:13:19",
+            "last_retested_at_epoch": 1587940224.890366,
+            "last_retested_at_iso": "2020-04-26T22:30:24.890366",
             "status": "INACTIVE"
         }
     }
