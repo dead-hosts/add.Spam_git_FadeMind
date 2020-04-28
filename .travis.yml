@@ -7,7 +7,6 @@ env:
     -   secure: Pyh4cehmy6zEXKvs5XJTFdfljHRvpT9YEw42YcY8da7YRnSR0XTxVJWww0DkOk8+ijk8VT848zaLJk5zDBCfC9+lK8Hq0f6fltYUw8kDxaMaiwt726blloxPW8aOicFI+NwnBe8mB8Q2jufe/TZ7PV3ACmlCXeqNkX6dhPr+2w0QIwrlx8fdNYG5Lt0u6wnXv4vc2wolFqxDvO0Ev/LPL/rlCnGgEZtjz0SHPw82yrVY/MuhJUWg5hKlOo+fBUWMacvY+iREG4bPYfQidyRS67sDllt9kU7SF1Qp60utZsrjfCZAiCanqTot1kfGXHxGCNAa4c5kOJMAH0jlDv1MEmQHmDEQVMckLHDouNadFL1Tz5c0VM6MxhZe1rTi3MqIIA/E/Wbncyzp/tJhlAb/n0dm/fjKTuTFpSzpmTNEHigWf4Wlb3jxJBu9vJWMMa64il3POzJlY4jwwhcyPdLTsjDPkxCAslKEitmjHsuK+VBuNCgcuTM390d+2aZ5Xk/mQKK097kaVtdBpKBxjytfjnKeTtcd+KC3f4mhCERxgQ75ipWjCFIlIq1o1b7xoTZ1p1IOZZeCVozYyga32f/d8cDNgyKeJwjWfnprQpP8v1BJCnMf03/tWGyMRYQTp6L9ATPZ/BVo1QpmoSwYGapw2Y4c7q+Cue9hQpPFWSFKSEM=
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/add.Spam_git_FadeMind
     -   GIT_BRANCH: master
     matrix:
     - PYTHON_VERSION="3.7.3"
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
