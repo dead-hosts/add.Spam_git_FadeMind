@@ -26,43 +26,43 @@
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1588072018.952926,
-            "last_retested_at_iso": "2020-04-28T11:06:58.952926",
+            "last_retested_at_epoch": 1588170860.565498,
+            "last_retested_at_iso": "2020-04-29T14:34:20.565498",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1587208302.0,
             "included_at_iso": "2020-04-18T11:11:42",
-            "last_retested_at_epoch": 1588072018.95781,
-            "last_retested_at_iso": "2020-04-28T11:06:58.957810",
+            "last_retested_at_epoch": 1588170860.569168,
+            "last_retested_at_iso": "2020-04-29T14:34:20.569168",
             "status": "INACTIVE"
         },
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1588072018.970308,
-            "last_retested_at_iso": "2020-04-28T11:06:58.970308",
+            "last_retested_at_epoch": 1588170860.584351,
+            "last_retested_at_iso": "2020-04-29T14:34:20.584351",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1588072018.972964,
-            "last_retested_at_iso": "2020-04-28T11:06:58.972964",
+            "last_retested_at_epoch": 1588170860.58678,
+            "last_retested_at_iso": "2020-04-29T14:34:20.586780",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1588072018.981859,
-            "last_retested_at_iso": "2020-04-28T11:06:58.981859",
+            "last_retested_at_epoch": 1588170860.603606,
+            "last_retested_at_iso": "2020-04-29T14:34:20.603606",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1587165199.0,
             "included_at_iso": "2020-04-17T23:13:19",
-            "last_retested_at_epoch": 1588072018.989207,
-            "last_retested_at_iso": "2020-04-28T11:06:58.989207",
+            "last_retested_at_epoch": 1588170860.612755,
+            "last_retested_at_iso": "2020-04-29T14:34:20.612755",
             "status": "INACTIVE"
         }
     }
