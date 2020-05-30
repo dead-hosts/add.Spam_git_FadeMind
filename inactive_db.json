@@ -65,6 +65,13 @@
             "last_retested_at_iso": "2020-05-29T13:58:34.748445",
             "status": "INACTIVE"
         },
+        "www.gtradersoft.com": {
+            "included_at_epoch": 1590834027.830472,
+            "included_at_iso": "2020-05-30T10:20:27.830472",
+            "last_retested_at_epoch": 1590834027.830472,
+            "last_retested_at_iso": "2020-05-30T10:20:27.830472",
+            "status": "INACTIVE"
+        },
         "www.otherinbox.com": {
             "included_at_epoch": 1589623685.837767,
             "included_at_iso": "2020-05-16T10:08:05.837767",
