@@ -26,64 +26,64 @@
         "creditauthpagev3.info": {
             "included_at_epoch": 1591452202.421157,
             "included_at_iso": "2020-06-06T14:03:22.421157",
-            "last_retested_at_epoch": 1592748817.628943,
-            "last_retested_at_iso": "2020-06-21T14:13:37.628943",
+            "last_retested_at_epoch": 1592863800.309462,
+            "last_retested_at_iso": "2020-06-22T22:10:00.309462",
             "status": "INACTIVE"
         },
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1592043649.39934,
             "included_at_iso": "2020-06-13T10:20:49.399340",
-            "last_retested_at_epoch": 1592748817.657971,
-            "last_retested_at_iso": "2020-06-21T14:13:37.657971",
+            "last_retested_at_epoch": 1592863800.338244,
+            "last_retested_at_iso": "2020-06-22T22:10:00.338244",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1592143744.139108,
             "included_at_iso": "2020-06-14T14:09:04.139108",
-            "last_retested_at_epoch": 1592748817.66127,
-            "last_retested_at_iso": "2020-06-21T14:13:37.661270",
+            "last_retested_at_epoch": 1592863800.341783,
+            "last_retested_at_iso": "2020-06-22T22:10:00.341783",
             "status": "INACTIVE"
         },
         "www.clicktshirtprinting.co.uk": {
             "included_at_epoch": 1590920741.581247,
             "included_at_iso": "2020-05-31T10:25:41.581247",
-            "last_retested_at_epoch": 1592748817.669965,
-            "last_retested_at_iso": "2020-06-21T14:13:37.669965",
+            "last_retested_at_epoch": 1592863800.352344,
+            "last_retested_at_iso": "2020-06-22T22:10:00.352344",
             "status": "INACTIVE"
         },
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1592043649.412128,
             "included_at_iso": "2020-06-13T10:20:49.412128",
-            "last_retested_at_epoch": 1592748817.672193,
-            "last_retested_at_iso": "2020-06-21T14:13:37.672193",
+            "last_retested_at_epoch": 1592863800.354875,
+            "last_retested_at_iso": "2020-06-22T22:10:00.354875",
             "status": "INACTIVE"
         },
         "www.defenderxtactical.com": {
             "included_at_epoch": 1591106497.740181,
             "included_at_iso": "2020-06-02T14:01:37.740181",
-            "last_retested_at_epoch": 1592748817.673312,
-            "last_retested_at_iso": "2020-06-21T14:13:37.673312",
+            "last_retested_at_epoch": 1592863800.353616,
+            "last_retested_at_iso": "2020-06-22T22:10:00.353616",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1592043649.414582,
             "included_at_iso": "2020-06-13T10:20:49.414582",
-            "last_retested_at_epoch": 1592748817.675686,
-            "last_retested_at_iso": "2020-06-21T14:13:37.675686",
+            "last_retested_at_epoch": 1592863800.357145,
+            "last_retested_at_iso": "2020-06-22T22:10:00.357145",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1592043649.424968,
             "included_at_iso": "2020-06-13T10:20:49.424968",
-            "last_retested_at_epoch": 1592748817.690128,
-            "last_retested_at_iso": "2020-06-21T14:13:37.690128",
+            "last_retested_at_epoch": 1592863800.368155,
+            "last_retested_at_iso": "2020-06-22T22:10:00.368155",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1592043649.431961,
             "included_at_iso": "2020-06-13T10:20:49.431961",
-            "last_retested_at_epoch": 1592748817.697454,
-            "last_retested_at_iso": "2020-06-21T14:13:37.697454",
+            "last_retested_at_epoch": 1592863800.374477,
+            "last_retested_at_iso": "2020-06-22T22:10:00.374477",
             "status": "INACTIVE"
         }
     }
