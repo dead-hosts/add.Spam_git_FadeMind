@@ -1,0 +1,13 @@
+{
+    "/home/travis/build/dead-hosts/add.Spam_git_FadeMind/domains.list": {
+        "base": {
+            "datetime_iso": "2020-07-12T10:05:27.744805",
+            "hash": "624ab6ad7e3e3b62bf2770519317f856d87a6a8a1bb0fd16fba80181"
+        },
+        "latest": {
+            "datetime_iso": "2020-07-12T10:05:27.744805",
+            "hash": "624ab6ad7e3e3b62bf2770519317f856d87a6a8a1bb0fd16fba80181"
+        },
+        "position": 1502
+    }
+}
