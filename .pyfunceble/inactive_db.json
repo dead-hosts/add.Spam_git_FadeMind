@@ -80,10 +80,10 @@
             "status": "ACTIVE"
         },
         "creditauthpagev3.info": {
-            "included_at_epoch": 1603640128.981995,
-            "included_at_iso": "2020-10-25T15:35:28.981995",
-            "last_retested_at_epoch": 1605716778.288379,
-            "last_retested_at_iso": "2020-11-18T16:26:18.288379",
+            "included_at_epoch": 1606060967.966247,
+            "included_at_iso": "2020-11-22T16:02:47.966247",
+            "last_retested_at_epoch": 1606060967.966247,
+            "last_retested_at_iso": "2020-11-22T16:02:47.966247",
             "status": "INACTIVE"
         },
         "dandingo.go2jump.org": {
