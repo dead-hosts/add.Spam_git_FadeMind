@@ -137,8 +137,9 @@
         "state": "future"
     },
     "tinaborg.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unionleisurewear.com": {
