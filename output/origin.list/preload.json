@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/add.Spam_git_FadeMind/add.Spam_git_FadeMind/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
     "hash": "ab897e6ea29d0d1aecb64ed1dfd20838f087a246a5bfde06658b5940",
     "line_number": 74,
     "output_dir": "/home/runner/work/add.Spam_git_FadeMind/add.Spam_git_FadeMind/output/origin.list",
     "previous_hash": "ab897e6ea29d0d1aecb64ed1dfd20838f087a246a5bfde06658b5940",
-    "rel_source": "origin.list",
-    "session_id": "2109c475dd28692201b1ca69",
-    "source": "/home/runner/work/add.Spam_git_FadeMind/add.Spam_git_FadeMind/origin.list",
-    "subject": "/home/runner/work/add.Spam_git_FadeMind/add.Spam_git_FadeMind/origin.list",
+    "session_id": "2d4a8046f5411a821ff4016c",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
