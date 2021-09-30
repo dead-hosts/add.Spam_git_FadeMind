@@ -1001,7 +1001,6 @@
         "compute.amazonaws.com",
         "customer-oci.com",
         "customer.mythic-beasts.com",
-        "damnserver.com",
         "dattolocal.com",
         "dattorelay.com",
         "dattoweb.com",
@@ -2172,6 +2171,7 @@
         "cust.disrec.thingdust.io",
         "cust.prod.thingdust.io",
         "cust.testing.thingdust.io",
+        "damnserver.com",
         "dedyn.io",
         "definima.io",
         "devices.resinstaging.io",
@@ -8532,6 +8532,7 @@
     ],
     "zm": [
         "ac.zm",
+        "biz.zm",
         "co.zm",
         "com.zm",
         "edu.zm",
@@ -8550,7 +8551,6 @@
     ],
     "zw": [
         "ac.zw",
-        "biz.zm",
         "co.zw",
         "gov.zw",
         "mil.zw",
